@@ -5,7 +5,7 @@
 - 👨‍💻 CERTIFICAÇÕES CONCLUÍDAS:
 
 - 🔹 Curso superior de Analise e desenvolvimento de sistemas (UNICID - Universidade Cidade de São Paulo).
-- 🔹   MBA em Inteligencia de Negócio, Business Analytics e Big Data (UNIFIL - Centro Universitário Filadelfia)
+- 🔹   MBA em Inteligencia de Negócio, Business Analytics e Big Data (UNIFIL - Centro Universitário Filadelfia).
 <p> 
   <h2>  Conecte-se comigo </h2> 
 </p>
