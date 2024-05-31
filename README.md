@@ -2,11 +2,11 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 <h1>Rafael Azzi</h1> 👋
 
-- 🔭 Atualmente trabalho com desenvolvimento e ingração de sistemas para a plataforma Servicenow.
+- 🔭 Atualmente trabalho com desenvolvimento e integração de sistemas para a plataforma Servicenow.
 
 - 👨‍💻 CERTIFICAÇÕES CONCLUÍDAS:
 
-- 🔹 Curso superior de Analise e desenvolvimento de sistemas (UNICID - Universidade Cidade de São Paulo).
+- 🔹 Curso superior de Análise e desenvolvimento de sistemas (UNICID - Universidade Cidade de São Paulo).
 - 🔹   MBA em Inteligencia de Negócio, Business Analytics e Big Data (UNIFIL - Centro Universitário Filadelfia).
 <p> 
   <h2>  Conecte-se comigo </h2> 
