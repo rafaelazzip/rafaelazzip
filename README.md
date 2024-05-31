@@ -1,4 +1,6 @@
-# Rafael Azzi 👋
+
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<h1>Rafael Azzi</h1> 👋
 
 - 🔭 Atualmente trabalho com desenvolvimento e ingração de sistemas para a plataforma Servicenow.
 
@@ -10,7 +12,7 @@
   <h2>  Conecte-se comigo </h2> 
 </p>
 
-<div align="center"> 
+<div> 
   <a href="https://www.instagram.com/oazzi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "rafaelazzipatricio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-azzi-patricio-87074a14a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -20,7 +22,7 @@
   <h2>Habilidades</h2> 
 </p>
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" ><br>
 
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -33,7 +35,7 @@
 
 <h2> GitHub Profile Stats</h2>
 </br>
- <div align="center">
+ <div>
   <a href="https://github.com/rafaelazzip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelazzip&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
